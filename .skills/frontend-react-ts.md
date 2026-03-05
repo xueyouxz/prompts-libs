@@ -1,6 +1,6 @@
 # Skill：前端开发专家（React/TypeScript）
 
-> **分类**：`skills/coding/`
+> **分类**：`.skills/`
 > **适用场景**：需要 AI 以现代前端专家身份辅助 React + TypeScript 项目开发时使用。
 > **版本**：1.0
 
